@@ -1,0 +1,18 @@
+<span id="a">[aidan@gawronski</span><span id="b"> ~</span><span id="a">]</span><span id="c">$</span> cd AidanGawronski
+<span id="a">[aidan@gawronski</span><span id="b"> ~</span><span id="a">]</span><span id="c">$</span> cat about_me.txt<br/><br/>
+Hi, I'm Aidan.
+
+I'm a data scientist.
+
+I enjoy working with Python, R, and SQL.
+
+When I'm not coding I enjoy working out, muay thai, biking along the beach, reading, and watching movies.
+
+Every now and then I ...
+Answer questions on <a href="https://stackoverflow.com/users/3922132/aidangawronski" target="_blank">Stack Overflow</a>.
+Post photographs on <a href="https://aidangawronski.com/instagram/" target="_blank">Instagram</a>.
+Push code to <a href="https://github.com/agawronski" target="_blank">GitHub</a>.
+
+Feel free to connect on <a href="https://www.linkedin.com/in/aidangawronski/" target="_blank">LinkedIn</a>
+
+<p>Have a good day :)</p>
